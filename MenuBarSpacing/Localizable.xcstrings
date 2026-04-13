@@ -1,0 +1,296 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "About Menu Bar Spacing" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "About Menu Bar Spacing" } }
+      }
+    },
+    "Adjust the spacing between menu bar icons" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Adjust the spacing between menu bar icons" } }
+      }
+    },
+    "Apply & Log Out" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Apply & Log Out" } }
+      }
+    },
+    "Apply & Reboot" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Apply & Reboot" } }
+      }
+    },
+    "Approximate representation" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Approximate representation" } }
+      }
+    },
+    "BUILD NAME" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "BUILD NAME" } }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Cancel" } }
+      }
+    },
+    "Check Now" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Check Now" } }
+      }
+    },
+    "Checking for updates…" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Checking for updates…" } }
+      }
+    },
+    "Choose the display language for Menu Bar Spacing. The app will restart to apply the change." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Choose the display language for Menu Bar Spacing. The app will restart to apply the change." } }
+      }
+    },
+    "Click **Check Now** to look for updates." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Click **Check Now** to look for updates." } }
+      }
+    },
+    "Clickable area around each icon" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Clickable area around each icon" } }
+      }
+    },
+    "Comfortable" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Comfortable" } }
+      }
+    },
+    "Compact" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Compact" } }
+      }
+    },
+    "Default" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Default" } }
+      }
+    },
+    "default: %lld px" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "default: %lld px" } }
+      }
+    },
+    "Download & Install" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Download & Install" } }
+      }
+    },
+    "Download failed: %@" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Download failed: %@" } }
+      }
+    },
+    "downloading…" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "downloading…" } }
+      }
+    },
+    "Downloading update…" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Downloading update…" } }
+      }
+    },
+    "Extra room" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Extra room" } }
+      }
+    },
+    "Gap between menu bar icons" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Gap between menu bar icons" } }
+      }
+    },
+    "Icon Spacing" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Icon Spacing" } }
+      }
+    },
+    "Install failed: %@" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Install failed: %@" } }
+      }
+    },
+    "Install Now" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Install Now" } }
+      }
+    },
+    "interface language" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "interface language" } }
+      }
+    },
+    "Later" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Later" } }
+      }
+    },
+    "Link padding to spacing" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Link padding to spacing" } }
+      }
+    },
+    "Log out to apply spacing changes?" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Log out to apply spacing changes?" } }
+      }
+    },
+    "macOS default" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "macOS default" } }
+      }
+    },
+    "Maximum density" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Maximum density" } }
+      }
+    },
+    "Menu Bar Spacing" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Menu Bar Spacing" } }
+      }
+    },
+    "Menu bar spacing changes require a reboot or logout to take effect. This is a macOS limitation." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Menu bar spacing changes require a reboot or logout to take effect. This is a macOS limitation." } }
+      }
+    },
+    "Menu Bar Spacing needs to restart to apply the new language." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Menu Bar Spacing needs to restart to apply the new language." } }
+      }
+    },
+    "Open Menu Bar Spacing GitHub repository" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Open Menu Bar Spacing GitHub repository" } }
+      }
+    },
+    "PLATFORM" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "PLATFORM" } }
+      }
+    },
+    "PREVIEW" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "PREVIEW" } }
+      }
+    },
+    "PRESETS" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "PRESETS" } }
+      }
+    },
+    "ready to install" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "ready to install" } }
+      }
+    },
+    "Reboot to apply spacing changes?" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Reboot to apply spacing changes?" } }
+      }
+    },
+    "Reduced gaps" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Reduced gaps" } }
+      }
+    },
+    "Reset to Default" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Reset to Default" } }
+      }
+    },
+    "Restart Now" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Restart Now" } }
+      }
+    },
+    "Restart Required" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Restart Required" } }
+      }
+    },
+    "Save Only" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Save Only" } }
+      }
+    },
+    "Save your work in all apps before logging out." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Save your work in all apps before logging out." } }
+      }
+    },
+    "Save your work in all apps before rebooting." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Save your work in all apps before rebooting." } }
+      }
+    },
+    "Selection Padding" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Selection Padding" } }
+      }
+    },
+    "Settings saved. Reboot or log out to apply." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Settings saved. Reboot or log out to apply." } }
+      }
+    },
+    "Spacious" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Spacious" } }
+      }
+    },
+    "Tight" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Tight" } }
+      }
+    },
+    "update available" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "update available" } }
+      }
+    },
+    "Update downloaded and ready" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Update downloaded and ready" } }
+      }
+    },
+    "VERSION" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "VERSION" } }
+      }
+    },
+    "view on GitHub" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "view on GitHub" } }
+      }
+    },
+    "Visit the GitHub repository to file issues, request features, and follow development." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Visit the GitHub repository to file issues, request features, and follow development." } }
+      }
+    },
+    "Wide gaps" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Wide gaps" } }
+      }
+    },
+    "You're on the latest version (v%@)" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "You're on the latest version (v%@)" } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

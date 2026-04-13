@@ -1,0 +1,12 @@
+.DS_Store
+*.xcuserstate
+xcuserdata/
+DerivedData/
+build/
+.build/
+.swiftpm/
+.claude/
+.planning/
+CLAUDE.md
+settings.local.json
+.playwright-mcp/
