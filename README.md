@@ -33,6 +33,20 @@
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="images/screenshot-compact.png" alt="Spacing Controls" width="32%">
+  <img src="images/screenshot-apply.png" alt="Apply Options" width="32%">
+  <img src="images/screenshot-about.png" alt="About Window" width="32%">
+</p>
+
+---
+
+> **macOS 26 Note:** On macOS 26 (and earlier versions), spacing changes require a **reboot or logout** to take effect. This is a limitation of macOS itself — the system reads `NSStatusItemSpacing` and `NSStatusItemSelectionPadding` at login time and does not pick up changes to these preferences while a session is active.
+
+---
+
 ## Download
 
 Download the latest version from [**Releases**](https://github.com/beyondthecode-bc/MenuBarSpacing/releases/latest). Unzip, move `Menu Bar Spacing.app` to Applications, and launch.
