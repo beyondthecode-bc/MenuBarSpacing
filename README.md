@@ -25,6 +25,7 @@
 <p align="center">
   <a href="https://github.com/sponsors/beyondthecode-bc"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=flat-square&logo=github" alt="GitHub Sponsors"></a>
   <a href="https://www.buymeacoffee.com/BEYONDTHECODE"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
+  <a href="https://www.virustotal.com/gui/file/2b0a6aab9987e2ce96cf35ecc8b794888f56fce8390f5214a88a6e7505318039"><img src="https://img.shields.io/badge/VirusTotal-0%2F65%20Clean-brightgreen?style=flat-square&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
 </p>
 
 <p align="center">
@@ -36,6 +37,17 @@
 ## Download
 
 Download the latest version from [**Releases**](https://github.com/beyondthecode-bc/MenuBarSpacing/releases/latest). Unzip, move `Menu Bar Spacing.app` to Applications, and launch.
+
+### Verification
+
+Every release is scanned on [VirusTotal](https://www.virustotal.com) before publishing. You can verify the download yourself:
+
+| | |
+|---|---|
+| **SHA-256** | `2b0a6aab9987e2ce96cf35ecc8b794888f56fce8390f5214a88a6e7505318039` |
+| **VirusTotal Report** | [View full scan results](https://www.virustotal.com/gui/file/2b0a6aab9987e2ce96cf35ecc8b794888f56fce8390f5214a88a6e7505318039) |
+
+To verify the hash locally: `shasum -a 256 MenuBarSpacing.zip`
 
 The app includes a built-in update checker — open **About** (click the `?` icon) and click **Check Now** to see if a newer version is available.
 
