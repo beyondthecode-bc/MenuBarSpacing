@@ -33,6 +33,10 @@
 
 ---
 
+> [!NOTE]
+> **This repository is the MenuBarSpacing community hub** — translations, issue tracking, and releases. MenuBarSpacing is a free, closed-source macOS app; the source code is not published here. **[Download MenuBarSpacing from Releases](https://github.com/beyondthecode-bc/MenuBarSpacing/releases/latest).**
+
+
 ## Screenshots
 
 <p align="center">
