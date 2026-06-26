@@ -176,19 +176,6 @@ If Menu Bar Spacing helps you tame your menu bar, consider supporting developmen
 
 ## Troubleshooting
 
-### "Menu Bar Spacing" Not Opened — Gatekeeper warning
-
-Menu Bar Spacing is not yet notarized with Apple. On first launch you may see a Gatekeeper warning.
-
-**To fix this:**
-
-1. Click **Done** to dismiss the dialog
-2. Open **System Settings > Privacy & Security**
-3. Scroll down — you'll see a message that Menu Bar Spacing was blocked
-4. Click **Open Anyway**
-
-This only needs to be done once. After that, the app will open normally.
-
 ### Nothing changed after applying
 
 Menu bar spacing changes require a **reboot or logout** to take effect. This is a macOS limitation — the system reads these preferences at login time. Use the **Apply & Reboot** button for the quickest result.
