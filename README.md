@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Customize the spacing between macOS menu bar icons</strong><br>
-  Adjust icon gaps and selection padding. Choose from presets or dial in exact pixel values. The current release requires an Apple Silicon Mac running macOS 14+.
+  Adjust icon gaps and selection padding. Choose from presets or dial in exact pixel values. The universal download supports Apple Silicon and Intel Macs running macOS 14+.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey?style=flat-square&logo=apple" alt="Platform">
-  <img src="https://img.shields.io/badge/chip-Apple%20Silicon-orange?style=flat-square&logo=apple" alt="Apple Silicon">
+  <img src="https://img.shields.io/badge/chip-Apple%20Silicon%20%2B%20Intel-orange?style=flat-square&logo=apple" alt="Apple Silicon + Intel">
   <img src="https://img.shields.io/badge/swift-6.0-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/SwiftUI-native-007AFF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
   <img src="https://img.shields.io/badge/languages-8-green?style=flat-square&logo=translate" alt="Languages">
@@ -37,6 +37,17 @@
 > **This repository is the MenuBarSpacing community hub** — translations, issue tracking, and releases. MenuBarSpacing is a free, closed-source macOS app; the source code is not published here. **[Download MenuBarSpacing from Releases](https://github.com/beyondthecode-bc/MenuBarSpacing/releases/latest).**
 
 
+
+<!-- os27-compatibility:start -->
+## OS 27 compatibility
+
+Updated 2026-09-16.
+
+- **GitHub — Version 1.0.1:** OS 27 compatibility checked with an Xcode 27 build and signature checks. Version 1.0.1 is a universal download for Apple Silicon and Intel Macs.
+
+Checks use Xcode 27 builds and automated tests where available. Full testing on physical devices has not been completed. Minimum OS requirements are unchanged.
+<!-- os27-compatibility:end -->
+
 ## Screenshots
 
 <p align="center">
@@ -51,22 +62,26 @@
 
 ---
 
-## Download
+## Existing users — update in the app
 
-Download the latest version from [**Releases**](https://github.com/beyondthecode-bc/MenuBarSpacing/releases/latest). Unzip, move `Menu Bar Spacing.app` to Applications, and launch.
+Open Menu Bar Spacing → **About** (the circled **i** button) → **Updates** → **Check Now**. Choose **Download & Install**, then **Install Now** when the download is ready. Approve the macOS administrator prompt; the app relaunches after installation.
 
-The app includes a built-in update checker — open **About** (click the `?` icon) and click **Check Now** to see if a newer version is available.
+## New installation
 
-### Verification
+Download **MenuBarSpacing.zip** from [Releases](https://github.com/beyondthecode-bc/MenuBarSpacing/releases/tag/v1.0.1), extract **Menu Bar Spacing.app**, and move it to **Applications** before opening it.
 
-Every release is scanned on [VirusTotal](https://www.virustotal.com) before publishing. You can verify the download yourself:
+## Manual fallback
 
-| | |
-|---|---|
-| **SHA-256** | `70af1b5a33530c46c689a50e6e9c3c4a6c7a60f23ae7869972b7a73e4e534dc6` |
-| **VirusTotal Report** | [View full scan results](https://www.virustotal.com/gui/file/70af1b5a33530c46c689a50e6e9c3c4a6c7a60f23ae7869972b7a73e4e534dc6) |
+If the updater is unavailable, inaccessible, or fails, quit Menu Bar Spacing and replace the app in Applications with the extracted copy, then reopen it. Your saved settings are retained.
 
-To verify the hash locally: `shasum -a 256 MenuBarSpacing.zip`
+### Verification for v1.0.1
+
+Developer ID signed, Apple notarized, and stapled; Gatekeeper verification passed.
+
+- SHA-256: `e99bacbab09e2d1ef421ed6b0d3ecc171af58478af14a220eefbcdc3c59cbfd1`
+- [VirusTotal report](https://www.virustotal.com/gui/file/e99bacbab09e2d1ef421ed6b0d3ecc171af58478af14a220eefbcdc3c59cbfd1): 0 malicious, 0 suspicious; 65 undetected, 1 timeout, 1 failure, 7 unsupported engines.
+
+To verify locally: `shasum -a 256 MenuBarSpacing.zip`
 
 ## Features
 
@@ -92,7 +107,7 @@ To verify the hash locally: `shasum -a 256 MenuBarSpacing.zip`
 - Reset to Default — restores macOS default values
 
 **About & Updates**
-- Built-in update checker downloads new versions directly from GitHub releases
+- Built-in updater checks GitHub releases and offers Download & Install, then Install Now
 - GitHub repository link and support options (Buy Me a Coffee, GitHub Sponsors)
 - Per-app language override with 8 supported languages
 
@@ -111,7 +126,7 @@ Changes require a **reboot or logout** to take effect — this is a macOS limita
 | | Requirement |
 |---|---|
 | **OS** | macOS 14.0 (Sonoma) or later |
-| **Chip** | Apple Silicon (M1 or later) for the current GitHub release |
+| **Chip** | Apple Silicon or Intel (universal download) |
 
 ## Getting Started
 
