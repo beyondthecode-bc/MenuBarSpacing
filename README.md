@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Customize the spacing between macOS menu bar icons</strong><br>
-  Adjust icon gaps and selection padding. Choose from presets or dial in exact pixel values. Works on any Mac running macOS 14+.
+  Adjust icon gaps and selection padding. Choose from presets or dial in exact pixel values. The current release requires an Apple Silicon Mac running macOS 14+.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey?style=flat-square&logo=apple" alt="Platform">
-  <img src="https://img.shields.io/badge/chip-Apple%20Silicon%20%2B%20Intel-orange?style=flat-square&logo=apple" alt="Apple Silicon + Intel">
+  <img src="https://img.shields.io/badge/chip-Apple%20Silicon-orange?style=flat-square&logo=apple" alt="Apple Silicon">
   <img src="https://img.shields.io/badge/swift-6.0-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/SwiftUI-native-007AFF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI">
   <img src="https://img.shields.io/badge/languages-8-green?style=flat-square&logo=translate" alt="Languages">
@@ -111,7 +111,7 @@ Changes require a **reboot or logout** to take effect — this is a macOS limita
 | | Requirement |
 |---|---|
 | **OS** | macOS 14.0 (Sonoma) or later |
-| **Chip** | Any Mac (Apple Silicon or Intel) |
+| **Chip** | Apple Silicon (M1 or later) for the current GitHub release |
 
 ## Getting Started
 
